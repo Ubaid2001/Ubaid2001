@@ -48,10 +48,10 @@ In the astral plane of ML, I've navigated the following domains:
 
 - **Model Configs**: This repo contains a 3-stage ML pipeline. The pipeline consists of VGG-16, MoveNet and EfficientB-0 architectures. It is utilised to filter explicit images according to Islamic Prinicples via blocking.
 - **Filtering Application**: This is a web-application created for the Model-Configs Repo. The application shows the integration of 3-stage ML pipeline through Flask and React.
-- **Islamic Compass**: This a Android application with a compass as the main feature, the compass showcases the Qibla (Islamic direction of prayer). It is created in Java and contains a Node,js web server, additionally, the data is stored in MongoDB. 
+- **Islamic Compass**: This is a Android application with a compass as the main feature, the compass showcases the Qibla (Islamic direction of prayer). It is created in Java and contains a Node,js web server, additionally, the data is stored in MongoDB. 
 
 ## 📫 Reach Across the Digital Realm
 
-Let's connect! Find me on LinkedIn or send a digital signal to your.email@example.com.
+Let's connect! Find me on LinkedIn or send a digital signal to ubaidmahmood@hotmail.com.
 
 May your code compile flawlessly, your gradients converge, and your cosmic queries yield profound insights! 🌌✨
