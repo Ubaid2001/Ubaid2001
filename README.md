@@ -46,9 +46,9 @@ In the astral plane of ML, I've navigated the following domains:
 
 ## 🌟 Projects and Quests
 
-- **Code Chronicles**: My interstellar musings on tech, code, and cosmic wonders.
-- **Neural Odyssey**: A deep learning model that predicts intricate patterns based on data behavior.
-- **Cosmic Chatbot**: A conversational AI trained on celestial conversations. Ask about algorithms, data structures, or the best programming languages.
+- **Model Configs**: This repo contains a 3-stage ML pipeline. The pipeline consists of VGG-16, MoveNet and EfficientB-0 architectures. It is utilised to filter explicit images according to Islamic Prinicples via blocking.
+- **Filtering Application**: This is a web-application created for the Model-Configs Repo. The application shows the integration of 3-stage ML pipeline through Flask and React.
+- **Islamic Compass**: This a Android application with a compass as the main feature, the compass showcases the Qibla (Islamic direction of prayer). It is created in Java and contains a Node,js web server, additionally, the data is stored in MongoDB. 
 
 ## 📫 Reach Across the Digital Realm
 
