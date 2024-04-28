@@ -52,6 +52,6 @@ In the astral plane of ML, I've navigated the following domains:
 
 ## 📫 Reach Across the Digital Realm
 
-Let's connect! Find me on LinkedIn or send a digital signal to ubaidmahmood@hotmail.com.
+Let's connect! Find me on LinkedIn.
 
 May your code compile flawlessly, your gradients converge, and your cosmic queries yield profound insights! 🌌✨
